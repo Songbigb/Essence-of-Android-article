@@ -21,7 +21,7 @@
 
 [任玉刚](http://blog.csdn.net/singwhatiwanna)
 
-友情推荐: [有新课堂](http://stay4it.com/)
+友情推荐: [有心课堂](http://stay4it.com/)
 
 ## 基础知识
 
@@ -39,7 +39,11 @@
 
 ## 实战内容
 
+[ButterKnife源码分析](http://www.jianshu.com/p/0f3f4f7ca505)
+
 [andriod 打造炫酷的电影票在线选座控件，1比1还原淘宝电影在线选座功能](http://blog.csdn.net/qifengdeqingchen/article/details/518681260)
+
+[高仿网易新闻栏目动画效果](http://blog.csdn.net/tyk0910/article/details/51460808)
 
 
 ## 黑科技
@@ -49,4 +53,6 @@
 [换肤框架](http://blog.csdn.net/qq_22706515/article/details/51980573)
 
 [自动抢红包，自动安装原理之AccessibilityService](http://www.jianshu.com/p/65afab3d1e2a)
+
+[仿QQ获取设备中APK并分享](http://blog.csdn.net/lfdfhl/article/details/51286284)
 
