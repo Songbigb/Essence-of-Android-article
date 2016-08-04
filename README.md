@@ -9,9 +9,12 @@
 ### Java基础
 
 [Java中的时间和日期(上)](http://blog.csdn.net/wl9739/article/details/51839502)
+
 [Java中的时间和日期(下)](http://blog.csdn.net/wl9739/article/details/51882913)
 
 ### Android基础
+
+[Android产品研发-->基类Activity](http://blog.csdn.net/qq_23547831/article/details/51546974)
 
 [ActivityThread的main方法究竟做了什么？](http://www.jianshu.com/p/0efc71f349c8)
 
