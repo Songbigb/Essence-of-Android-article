@@ -4,6 +4,22 @@
 
 [TOC]
 
+## 博乐推荐
+
+这里推荐几位大神的博客地址，他们的每一篇文章都是精华
+
+[尼古拉斯_赵四](http://www.wjdiankong.cn/category/android%E6%8A%80%E6%9C%AF%E7%AF%87/)
+
+[郭霖](http://blog.csdn.net/guolin_blog)
+
+[工匠若水](http://blog.csdn.net/yanbober)
+
+[张鸿洋](http://blog.csdn.net/lmj623565791)
+
+[任玉刚](http://blog.csdn.net/singwhatiwanna)
+
+[亓斌](http://blog.csdn.net/qibin0506)
+
 ## 基础知识
 
 ### Java基础
