@@ -33,6 +33,8 @@
 
 ### Android基础
 
+[带你了解Android常见的内存缓存算法](http://blog.csdn.net/gdutxiaoxu/article/details/51914000)
+
 [Android产品研发-->基类Activity](http://blog.csdn.net/qq_23547831/article/details/51546974)
 
 [ActivityThread的main方法究竟做了什么？](http://www.jianshu.com/p/0efc71f349c8)
