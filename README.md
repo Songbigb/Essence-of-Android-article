@@ -33,11 +33,17 @@
 
 ### Android基础
 
+[探究 LayoutInflater setFactory](http://blog.csdn.net/lmj623565791/article/details/51503977)
+
 [带你了解Android常见的内存缓存算法](http://blog.csdn.net/gdutxiaoxu/article/details/51914000)
 
 [Android产品研发-->基类Activity](http://blog.csdn.net/qq_23547831/article/details/51546974)
 
 [ActivityThread的main方法究竟做了什么？](http://www.jianshu.com/p/0efc71f349c8)
+
+[酷炫的Activity切换动画，打造更好的用户体验](http://blog.csdn.net/huachao1001/article/details/51659963)
+
+[从BaseActivity与BaseFragment的封装谈起](http://blog.csdn.net/tyk0910/article/details/51355026)
 
 ## 实战内容
 
@@ -47,7 +53,11 @@
 
 [高仿网易新闻栏目动画效果](http://blog.csdn.net/tyk0910/article/details/51460808)
 
+[Android自定义控件3——边缘凹凸的卡劵效果View](http://blog.csdn.net/yissan/article/details/51429281)
 
+[Android自定义View----一步一步教你实现QQ健康界面](http://blog.csdn.net/tyk0910/article/details/51594479)
+
+[RecyclerView学习----高仿网易新闻栏目动画效果](http://blog.csdn.net/tyk0910/article/details/51460808)
 ## 黑科技
 
 [教你一分钟实现动态模糊效果](http://blog.csdn.net/wl9739/article/details/51955598)
