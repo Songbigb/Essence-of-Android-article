@@ -33,6 +33,8 @@
 
 ### Android基础
 
+[Android中SQLite应用详解](http://blog.csdn.net/liuhe688/article/details/6715983)
+
 [探究 LayoutInflater setFactory](http://blog.csdn.net/lmj623565791/article/details/51503977)
 
 [带你了解Android常见的内存缓存算法](http://blog.csdn.net/gdutxiaoxu/article/details/51914000)
@@ -44,6 +46,12 @@
 [酷炫的Activity切换动画，打造更好的用户体验](http://blog.csdn.net/huachao1001/article/details/51659963)
 
 [从BaseActivity与BaseFragment的封装谈起](http://blog.csdn.net/tyk0910/article/details/51355026)
+
+[dagger2 让你爱不释手：基础依赖注入框架篇](http://android.jobbole.com/82694/)
+
+[dagger2 让你爱不释手：重点概念讲解、融合篇](http://android.jobbole.com/82704/)
+
+[dagger2 让你爱不释手：终结篇](http://android.jobbole.com/82705/)
 
 ## 实战内容
 
