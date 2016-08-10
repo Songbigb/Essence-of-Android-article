@@ -53,19 +53,26 @@
 
 [dagger2 让你爱不释手：终结篇](http://android.jobbole.com/82705/)
 
-## 实战内容
+## 源码分析
 
 [ButterKnife源码分析](http://www.jianshu.com/p/0f3f4f7ca505)
+
+## 高仿自定义
 
 [andriod 打造炫酷的电影票在线选座控件，1比1还原淘宝电影在线选座功能](http://blog.csdn.net/qifengdeqingchen/article/details/518681260)
 
 [高仿网易新闻栏目动画效果](http://blog.csdn.net/tyk0910/article/details/51460808)
 
-[Android自定义控件3——边缘凹凸的卡劵效果View](http://blog.csdn.net/yissan/article/details/51429281)
+[Android自定义控件——边缘凹凸的卡劵效果View](http://blog.csdn.net/yissan/article/details/51429281)
 
 [Android自定义View----一步一步教你实现QQ健康界面](http://blog.csdn.net/tyk0910/article/details/51594479)
 
 [RecyclerView学习----高仿网易新闻栏目动画效果](http://blog.csdn.net/tyk0910/article/details/51460808)
+
+[动手写一个好看的城市导航列表](http://blog.csdn.net/tyk0910/article/details/52066891)
+
+[使用ViewPager动画来做出不一样的引导页](http://blog.csdn.net/wei_smile/article/details/51167220)
+
 ## 黑科技
 
 [教你一分钟实现动态模糊效果](http://blog.csdn.net/wl9739/article/details/51955598)
