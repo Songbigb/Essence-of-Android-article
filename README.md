@@ -33,6 +33,8 @@
 
 ### Android基础
 
+[Android快速实现文件下载（只有4行代码](http://www.jianshu.com/p/46fd1c253701)
+
 [Android中SQLite应用详解](http://blog.csdn.net/liuhe688/article/details/6715983)
 
 [探究 LayoutInflater setFactory](http://blog.csdn.net/lmj623565791/article/details/51503977)
@@ -54,6 +56,8 @@
 [dagger2 让你爱不释手：终结篇](http://android.jobbole.com/82705/)
 
 ## 源码分析
+
+[Android Zygote启动流程源码解析](http://blog.csdn.net/qq_17250009/article/details/52061171)
 
 [ButterKnife源码分析](http://www.jianshu.com/p/0f3f4f7ca505)
 
