@@ -77,6 +77,8 @@
 
 [使用ViewPager动画来做出不一样的引导页](http://blog.csdn.net/wei_smile/article/details/51167220)
 
+[利用Camera和Matrix实现有趣的卡片效果](http://blog.csdn.net/zhangke3016/article/details/52143339)
+
 ## 黑科技
 
 [教你一分钟实现动态模糊效果](http://blog.csdn.net/wl9739/article/details/51955598)
