@@ -2,7 +2,6 @@
 
 收录Android相关的基础知识、实战内容以及部分黑科技
 
-[TOC]
 
 ## 博乐推荐
 
@@ -55,6 +54,9 @@
 
 [dagger2 让你爱不释手：终结篇](http://android.jobbole.com/82705/)
 
+[Rxjava实践: 把混乱的WORKFLOW撸成串吧](http://www.jianshu.com/p/f7eeec2d31ed)
+
+
 ## 源码分析
 
 [Android Zygote启动流程源码解析](http://blog.csdn.net/qq_17250009/article/details/52061171)
@@ -78,6 +80,8 @@
 [使用ViewPager动画来做出不一样的引导页](http://blog.csdn.net/wei_smile/article/details/51167220)
 
 [利用Camera和Matrix实现有趣的卡片效果](http://blog.csdn.net/zhangke3016/article/details/52143339)
+
+[手摸手教你写Slack的Loading动画](http://www.wangyuwei.me/2016/08/15/%E6%89%8B%E6%91%B8%E6%89%8B%E6%95%99%E4%BD%A0%E5%86%99Slack%E7%9A%84Loading%E5%8A%A8%E7%94%BB/)
 
 ## 黑科技
 
