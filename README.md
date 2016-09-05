@@ -56,6 +56,16 @@
 
 [Rxjava实践: 把混乱的WORKFLOW撸成串吧](http://www.jianshu.com/p/f7eeec2d31ed)
 
+### Binder
+
+[Android Bander设计与实现 - 设计篇](http://blog.csdn.net/universus/article/details/6211589)
+
+[Android深入浅出之Binder机制](http://www.cnblogs.com/innost/archive/2011/01/09/1931456.html)
+
+[Binder学习指南](http://www.jianshu.com/p/af2993526daf)
+
+[Binder牌胶水](http://www.jianshu.com/p/3d053abba04b)
+
 
 ## 源码分析
 
