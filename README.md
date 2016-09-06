@@ -48,13 +48,23 @@
 
 [从BaseActivity与BaseFragment的封装谈起](http://blog.csdn.net/tyk0910/article/details/51355026)
 
+### Dagger
+
 [dagger2 让你爱不释手：基础依赖注入框架篇](http://android.jobbole.com/82694/)
 
 [dagger2 让你爱不释手：重点概念讲解、融合篇](http://android.jobbole.com/82704/)
 
 [dagger2 让你爱不释手：终结篇](http://android.jobbole.com/82705/)
 
+### Retrofit & RxJava
+
+[给 Android 开发者的 RxJava 详解](https://gank.io/post/560e15be2dca930e00da1083)
+
+[RxJava与Retrofit结合的最佳实践](http://gank.io/post/56e80c2c677659311bed9841)
+
 [Rxjava实践: 把混乱的WORKFLOW撸成串吧](http://www.jianshu.com/p/f7eeec2d31ed)
+
+[Retrofit Token过期自动刷新并重新请求接口](http://blog.csdn.net/jdsjlzx/article/details/52442113)
 
 ### Binder
 
