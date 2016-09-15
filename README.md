@@ -83,7 +83,7 @@
 
 [ButterKnife源码分析](http://www.jianshu.com/p/0f3f4f7ca505)
 
-## 高仿自定义
+## 高仿自定义 
 
 [andriod 打造炫酷的电影票在线选座控件，1比1还原淘宝电影在线选座功能](http://blog.csdn.net/qifengdeqingchen/article/details/518681260)
 
@@ -114,4 +114,8 @@
 [自动抢红包，自动安装原理之AccessibilityService](http://www.jianshu.com/p/65afab3d1e2a)
 
 [仿QQ获取设备中APK并分享](http://blog.csdn.net/lfdfhl/article/details/51286284)
+
+## 热修复
+
+[Android 热补丁技术——资源的热修复](http://blog.csdn.net/sbsujjbcy/article/details/52541803)
 
